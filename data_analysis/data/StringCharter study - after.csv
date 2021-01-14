@@ -11,3 +11,19 @@ Timestamp,Please enter your ID number,Which tool did you use?,Which of this test
 2021/01/12 9:53:50 PM GMT+1,535623,Timetable,Graz - Wien Hbf - Graz,9,2,7,4,6,4
 2021/01/12 9:54:10 PM GMT+1,535623,String Charter,Graz - Innsbruck - Graz,5,1,5,7,9,2
 2021/01/12 9:54:33 PM GMT+1,535623,Timetable,Graz - Innsbruck - Graz,10,1,3,3,10,1
+2021/01/14 4:35:51 PM GMT+1,237916,Timetable,Graz - Wien Hbf - Graz,5,1,6,7,9,7
+2021/01/14 4:35:55 PM GMT+1,237916,Timetable,Graz - Innsbruck - Graz,6,1,5,7,9,6
+2021/01/14 4:35:57 PM GMT+1,237916,String Charter,Graz - Wien Hbf - Graz,9,1,8,9,4,7
+2021/01/14 4:35:59 PM GMT+1,237916,String Charter,Graz - Innsbruck - Graz,9,1,7,9,4,7
+2021/01/14 5:21:00 PM GMT+1,493715,Timetable,Graz - Innsbruck - Graz,8,2,8,7,9,1
+2021/01/14 5:21:04 PM GMT+1,493715,Timetable,Graz - Wien Hbf - Graz,9,2,6,7,8,1
+2021/01/14 5:21:07 PM GMT+1,493715,String Charter,Graz - Innsbruck - Graz,7,2,5,7,9,1
+2021/01/14 5:21:12 PM GMT+1,493715,String Charter,Graz - Wien Hbf - Graz,7,2,6,7,10,3
+2021/01/14 5:42:29 PM GMT+1,831682,Timetable,Graz - Innsbruck - Graz,4,1,5,6,10,1
+2021/01/14 5:42:32 PM GMT+1,831682,Timetable,Graz - Wien Hbf - Graz,5,1,5,5,10,1
+2021/01/14 5:42:35 PM GMT+1,831682,String Charter,Graz - Innsbruck - Graz,5,1,6,6,10,1
+2021/01/14 5:42:40 PM GMT+1,831682,String Charter,Graz - Wien Hbf - Graz,6,1,5,5,9,1
+2021/01/14 5:46:14 PM GMT+1,348414,Timetable,Graz - Innsbruck - Graz,5,1,6,6,9,2
+2021/01/14 5:46:17 PM GMT+1,348414,Timetable,Graz - Wien Hbf - Graz,4,1,6,5,9,2
+2021/01/14 5:46:23 PM GMT+1,348414,String Charter,Graz - Innsbruck - Graz,4,1,6,5,8,2
+2021/01/14 5:46:24 PM GMT+1,348414,String Charter,Graz - Wien Hbf - Graz,6,1,5,5,8,5
